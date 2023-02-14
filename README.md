@@ -6,9 +6,9 @@ This program is a command line interface (CLI) tool which extracts insider tradi
 
 To run the program, simply run the command:
 
-'''
+```
 python3 'insider trading.py'
-'''
+```
 
 Enter any ticker symbol(s) in a comma separated list or type 'all' to search through every possible ticker symbol in the 'ticker and cik.csv' file.
 
