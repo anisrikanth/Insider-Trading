@@ -1,6 +1,6 @@
 # Insider-Trading
 
-This program is a command line interface (CLI) tool which extracts insider trading data from the SEC website, and then stores the data in an excel file for a specified time fram. The program gathers a variety of metrics such as the number of pruchases, sales, average shared bought and sold, etc.
+This program is a command line interface (CLI) tool which extracts insider trading data from the SEC website, and then stores the data in an excel file for a specified time frame. The program gathers a variety of metrics such as the number of pruchases, sales, average shared bought and sold, etc.
 
 # How to run:
 
